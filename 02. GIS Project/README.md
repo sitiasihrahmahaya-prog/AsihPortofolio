@@ -1,9 +1,10 @@
-# 🗺️ Field Geology Spatial Mapping & Analytics (QGIS)
+# 🗺️ Field Geology Spatial Data Processing & Mapping (QGIS)
 
 ## 📝 Project Overview
-This project showcases the end-to-end spatial data processing of geological field observations acquired during a field mapping campaign. The core objective was to ingest raw field-acquired coordinates and geological attributes (lithology, structural data), execute spatial operations in **QGIS**, and produce high-quality, cartographic-grade thematic maps used for geological evaluation.
+This project documents the end-to-end spatial data processing executed during an official **Geological Field Mapping Campaign (Kuliah Lapangan) in Karangsambung, Central Java**. The primary objective was to ingest raw, field-acquired geological attributes (coordinates, lithology, structural data), process them within a structured Geographic Information System (GIS) workflow using **QGIS**, and produce high-quality, cartographic-grade thematic maps.
 
-The workflow translates raw field data into a structural framework, isolating lithological boundaries, topographic expressions, and structural orientations.
+This workflow serves as a technical bridge that translates raw physical field observations into definitive structural maps, isolating lithological boundaries, topographic expressions, and structural orientations.
+
 
 ---
 
@@ -21,8 +22,6 @@ The workflow translates raw field data into a structural framework, isolating li
 * 📁 `stages_screenshots/` -> Contains step-by-step processing screenshots inside QGIS.
 * 📁 `final_maps/` -> Contains high-resolution outputs of the finalized geological maps.
 * 📄 [README.md](./README.md) -> This documentation file.
-
----
 
 ---
 
