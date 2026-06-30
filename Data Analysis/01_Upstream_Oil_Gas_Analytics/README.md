@@ -1,28 +1,28 @@
-# 🛢️ Upstream Oil & Gas Production Performance Analytics
+# Upstream Oil & Gas Production Performance Analytics
 
-## 📝 Project Overview
+## Project Overview
 This project demonstrates an **End-to-End Data Analytics workflow** in the upstream Oil & Gas sector. The primary objective was to ingest a raw, unhygienic dataset containing daily production logs, clean it using enterprise-grade SQL strategies in **Google Cloud BigQuery**, and transform the structured results into an interactive executive dashboard via **Google Looker Studio**.
 
 The final solution successfully resolves critical data integrity anomalies (such as negative volumes and missing metadata) and establishes an automated tracking mechanism for asset performance and operational risk identification.
 
 ---
 
-## 🛠️ Tech Stack & Skills Demonstrated
+## Tech Stack & Skills Demonstrated
 * **Data Warehousing & Processing:** Google Cloud BigQuery (SQL)
 * **Business Intelligence & Visualization:** Google Looker Studio
 * **Core Analytics Skills:** Data Cleansing, Handling Missing/Negative Values, Data Transformation, Structural Aggregations, Performance Benchmarking, and Operational Risk Sifting.
 
 ---
 
-## 📂 Repository Structure
-* 📊 [produksi_raw.csv](./produksi_raw.csv) -> The raw unhygienic oil & gas production dataset.
-* 📄 [queries_analytics.sql](./queries_analytics.sql) -> Production-grade SQL queries for cleaning and aggregation.
-* 📄 [main.py](./main.py) -> *Optional* Python script logic replication using Pandas.
-* 📄 [README.md](./README.md) -> This project documentation file.
+## Repository Structure
+* [produksi_raw.csv](./produksi_raw.csv) -> The raw unhygienic oil & gas production dataset.
+* [queries_analytics.sql](./queries_analytics.sql) -> Production-grade SQL queries for cleaning and aggregation.
+* [main.py](./main.py) -> Python script logic replication using Pandas (optional).
+* [README.md](./README.md) -> This project documentation file.
 
 ---
 
-## 📊 Business & Operational Insights Discovered
+## Business & Operational Insights Discovered
 
 1. **Production Overview:** Validated and consolidated a stable total production baseline of **19,962 BBL/D** across all operational fields, establishing a reliable "single source of truth" for management reporting.
 2. **Operator Performance:** **Chevron** leads the registered operators with a total output of **5,491 BBL/D**, followed closely by Medco (**4,220 BBL/D**) and Pertamina (**3,881 BBL/D**).
@@ -31,9 +31,9 @@ The final solution successfully resolves critical data integrity anomalies (such
 
 ---
 
-## 💻 SQL Queries Implemented (BigQuery)
+## SQL Queries Implemented (BigQuery)
 
-```sql
+```
 -- =====================================================================
 -- OBJECTIVE 1: Data Cleansing & Preparation
 -- Eliminating negative values, duplicates, and safeguarding NULL entries
@@ -96,16 +96,16 @@ WHERE
     water_cut_percentage > 75
 ORDER BY 
     water_cut_percentage DESC;
+```
+---
 
-📈 Interactive Executive Dashboard
+## Interactive Executive Dashboard
 The transformed data streams directly into Looker Studio, rendering a clean, multi-layered visual layout designed for executive decision-making:
 
-KPI Core: Tracks real-time global volumes (19,962 BBL/D).
+* **KPI Core:** Tracks real-time global volumes (**19,962 BBL/D**).
+* **Operator Share Breakdown:** Bar chart contrasting volume ownership.
+* **Risk Control Panel:** An automated alarm matrix locking down the 13 volatile wells with critical water breakthroughs.
 
-Operator Share Breakdown: Bar chart contrasting volume ownership.
+📌 **[Click Here to View the Interactive Looker Studio Dashboard](https://datastudio.google.com/reporting/dbc296c7-ef42-48ff-a1ed-c1cc3e6e09ef)**
 
-Risk Control Panel: An automated alarm matrix locking down the 13 volatile wells with critical water breakthroughs.
-
-📌 Click Here to View the Interactive Looker Studio Dashboard
-
-Developed as part of an end-to-end Data Analytics Portfolio project.
+*Developed as part of an end-to-end Data Analytics Portfolio project.*
