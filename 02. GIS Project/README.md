@@ -24,23 +24,28 @@ The workflow translates raw field data into a structural framework, isolating li
 
 ---
 
+---
+
 ## ⚙️ Step-by-Step GIS Workflow
 
 ### 1. Data Ingestion & Georeferencing
 * Imported raw field coordinates (X, Y) containing lithological metadata and geological structures.
-* Georeferenced scanned paper base-maps using control points (GCPs) to align them accurately with the WGS84 coordinate reference system.
+* Georeferenced the scanned **Regional Geological Map of Karangsambung** by utilizing its printed coordinate grids as Ground Control Points (GCPs).
+* Configured the project's Coordinate Reference System (CRS) to **EPSG:32749 - WGS 84 / UTM Zone 49S** to ensure highly accurate, metric-based distance and area calculations for the Southern Hemisphere.
 
-### 2. Terrain Analysis & Base Layer Preparation
-* Processed **DEMNAS** data to analyze regional morphology.
-* Clipped (`Vector -> Geoprocessing -> Clip`) the massive regional base layers (rivers, roads, and contours) using the specific field-work boundary polygon to optimize processing speed and map focus.
+### 2. AOI (Area of Interest) Definition & Base Layer Preparation
+* **Crucial Step:** Defined a strict **Area of Interest (AOI) boundary polygon** matching the exact dimensions of the observed field area. This prevents data clutter and optimizes rendering performance.
+* Processed **DEMNAS** data to analyze regional geomorphology and topography within the workspace.
+* Clipped (`Vector -> Geoprocessing -> Clip`) the massive regional base layers (rivers, roads, and topographic contours) to match the predefined field-work boundary.
 
 ### 3. Digitization & Feature Engineering
 * **Geological Outcrops & Tracks:** Digitized field traverse tracks and outcrop locations.
-* **Lithological Boundaries:** Polygonal digitization based on field observations to differentiate rock units.
+* **Lithological Boundaries:** Polygonal digitization based on field-mapped contacts to differentiate rock formations.
 
 ### 4. Cartographic Layout & Visualization
-* Applied strike and dip symbology for structural data.
-* Designed professional legends, scale bars, north arrows, and grid systems in the QGIS Print Layout.
+* Applied precise strike and dip symbology for structural data orientations.
+* Designed professional legends, scale bars, north arrows, and cross-sections in the QGIS Print Layout.
+
 
 ---
 
