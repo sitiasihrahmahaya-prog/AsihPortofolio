@@ -101,8 +101,8 @@ The transformed data streams directly into Looker Studio, rendering a clean, mul
 * **Operator Share Breakdown:** Bar chart contrasting volume ownership.
 * **Risk Control Panel:** An automated alarm matrix locking down the 13 volatile wells with critical water breakthroughs.
 
-📌 **[Click Here to View the Interactive Looker Studio Dashboard](
-(https://datastudio.google.com/reporting/dbc296c7-ef42-48ff-a1ed-c1cc3e6e09ef))**
+📌 **[Click Here to View the Interactive Looker Studio Dashboard](https://datastudio.google.com/reporting/dbc296c7-ef42-48ff-a1ed-c1cc3e6e09ef)**
+
 
 ---
 *Developed as part of an end-to-end Data Analytics Portfolio project.*
