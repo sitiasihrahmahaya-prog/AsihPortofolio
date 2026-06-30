@@ -50,12 +50,10 @@ The primary objective was to integrate surface geological observations (litholog
 ## 🖼️ Process & Workflow Highlights (QGIS Stages)
 
 #### A. Base Layer Clipping & Georeferencing Stage
-*Description: Project setup using EPSG:32749 and clipping regional shapefiles to the field AOI.*
-![Georeferencing & Clipping Stage](./stages_screenshots)
+*Description: Project setup using EPSG:32749 and clipping regional shapefiles to the field AOI.*[Georeferencing & Clipping Stage](./stages_screenshots)
 
 #### B. Geophysical Line Layout & Digitization
-*Description: Mapping the acquisition tracks for multiple geophysical profiles across geological boundaries.*
-![Digitization Stage](./stages_screenshots)
+*Description: Mapping the acquisition tracks for multiple geophysical profiles across geological boundaries.*[Digitization Stage](./stages_screenshots)
 
 ---
 
