@@ -22,7 +22,6 @@ The primary objective was to integrate surface geological observations (litholog
 * 📁 `raw_data/` -> Contains input vector layers, base maps, and survey point CSVs.
 * 📁 `stages_screenshots/` -> Contains step-by-step processing screenshots inside QGIS.
 * 📁 `final_maps/` -> Contains high-resolution outputs of the finalized geological and geophysical layout maps.
-* 📄 [README.md](./README.md) -> This documentation file.
 
 ---
 
