@@ -1,4 +1,4 @@
-# 🗺️ Integrated Field Geology & Geophysical Data Processing & Mapping Using QGIS
+# Integrated Field Geology & Geophysical Data Processing & Mapping Using QGIS
 
 ## Project Overview
 This project documents the end-to-end spatial data processing and integrated mapping executed during an official **Geological & Geophysical Fieldwork Course in Karangsambung, Central Java, 2024**. 
