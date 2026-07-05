@@ -1,4 +1,4 @@
-# 🛢️ Upstream Exploration & Production (E&P) Portfolio Analytics
+# Upstream Exploration & Production (E&P) Portfolio Analytics
 
 ---
 
@@ -26,5 +26,4 @@ The analytical workflow transitions from raw data preprocessing to multi-dimensi
 ├── 📊 Excel_Processing_and_Dashboard.xlsx   # Interactive Excel Dashboard (Pivot, INDEX-MATCH, Conditional Formatting)
 ├── 🛢️ SQL_Queries.sql     # Data engineering & aggregation queries (Bigquerry)
 ├── 📄 README.md           # Project documentation
-└── 📂 data
-     └── 📄 raw_portfolio_data.csv         # Cleaned asset master dataset (Auto-detect schema optimized)
+└── 📄 raw_portfolio_data.csv     # Cleaned asset master dataset (Auto-detect schema optimized)
