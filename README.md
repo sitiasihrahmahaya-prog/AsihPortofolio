@@ -30,7 +30,7 @@ If you need a printed copy or would like to save this document in high-resolutio
 
 I am highly open to career opportunities, project partnerships, and professional collaborations across **Geoscience, Subsurface Tech, Data Analysis, Business Development, and Energy Operations**. Let's connect through:
 
-* **LinkedIn:** [linkedin.com/in/siti-asih-rahmahaya](https://linkedin.com/in/siti-asih-rahmahaya)
+* **LinkedIn:** [linkedin.com/in/siti-asih-rahmahaya](https://linkedin.com/in/sitiasihrahmahaya)
 * **Email:** [sitiasihrahmahaya@gmail.com](mailto:sitiasihrahmahaya@gmail.com)
 
 *Thank you for visiting!*
