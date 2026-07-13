@@ -7,6 +7,8 @@ An end-to-end data analytics pipeline and simulation engine designed to solve **
 ## 🎯 Project Background & Intent
 **Note:** This project was **independently developed and engineered** as a **professional portfolio** submission for the **Junior Consultant** position at **BIA Energi**. It demonstrates practical proficiency in data pipeline architecture, database analytics, and executive-level business intelligence solutions tailored specifically for oil & gas consulting workflows. All operational logs and production metrics utilized throughout this application consist of **fully synthetic data** generated purely for simulation and validation purposes.
 
+---
+
 ## 🎯 Problem Statement & Business Context
 In oil and gas operations, a common critical issue is the systemic volume mismatch between **Total Wellhead Potential** and **Actual Sales Volume**. As a Junior Consultant, this project evaluates the structural losses and provides data-driven mitigation plans:
 * **Global Asset Loss:** Historical operations exhibit an average volume deviation of **1.77%**, officially breaching the standard **1.5% maximum uncertainty tolerance limit**.
@@ -53,6 +55,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ---
+```
 
 ## 📌 Executive Insights & Strategic Actions (Consultant Deliverables)
 * **High-Temperature Thermal Correlation:** Based on cross-asset correlation analysis, the most severe volume deviations are heavily clustered around Wellhead-Gamma, which consistently logs PVT temperatures well above the operational baseline. This strongly indicates that the current allocation matrix fails to account for thermal volume shrinkage effects.
