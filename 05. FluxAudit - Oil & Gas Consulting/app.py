@@ -7,7 +7,7 @@ import plotly.express as px
 st.set_page_config(page_title="FluxAudit™ Engine", layout="wide")
 
 # === 1. CONFIGURATION NAVIGATION (SIDEBAR MENU) ===
-st.sidebar.title("🎮 FluxAudit™ Menu")
+st.sidebar.title("FluxAudit™ Menu")
 page = st.sidebar.radio("Navigate to:", ["📊 Data Engine (Python)", "📈 Executive Dashboard (BI)"])
 
 # === SQLITE3 BACKEND PROCESSING ===
@@ -83,7 +83,7 @@ if page == "📊 Data Engine (Python)":
         st.plotly_chart(fig, width='stretch')
 
         # Automated Uncertainty Exception Logs System
-        st.subheader("🚨 Automated Quantity Assurance Exception Logs")
+        st.subheader("Automated Quantity Assurance Exception Logs")
         df_filtered['Status'] = np.where(df_filtered['Discrepancy_Pct'] > tolerance, "⚠️ ALERT: High Loss", "✅ Normal")
 
         def style_status(val):
@@ -98,7 +98,7 @@ if page == "📊 Data Engine (Python)":
 
 # --- PAGE 2: EXECUTIVE ENTERPRISE BI DASHBOARD ---
 elif page == "📈 Executive Dashboard (BI)":
-    st.title("🏛️ Corporate BI Analytics Platform")
+    st.title("Corporate BI Analytics Platform")
     st.caption("Live connection to Looker Studio Executive Dashboard Engine")
     
     # Secure embedding URL for Looker Studio report
