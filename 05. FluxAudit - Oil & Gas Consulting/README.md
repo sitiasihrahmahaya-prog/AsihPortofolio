@@ -17,7 +17,7 @@ An end-to-end data analytics pipeline and simulation engine designed to solve **
 ![FluxAudit Python Data Engine](dashboard_python.png)
 
 #### Page B: 📈 Executive Dashboard (Integrated Corporate BI Analytics)
-![FluxAudit Looker Studio Platform]()
+![FluxAudit Looker Studio Platform](dashboard_Looker.png)
 
 ---
 
