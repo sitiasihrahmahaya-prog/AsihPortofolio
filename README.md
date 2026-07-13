@@ -1,12 +1,12 @@
 # Professional Portfolio - Siti Asih Rahmahaya
 
-Welcome to my professional portfolio repository! Below is the full interactive view of my portfolio document.
+Welcome to my professional portfolio repository! Below is the full view of my portfolio document.
 
 ---
 
 ### 🔍 Portfolio Pages
 
-👉 **[Click here if the PDF does not load automatically](./Professional_Portfolio.pdf)**
+**[Click here if the PDF does not load automatically](./Professional_Portfolio.pdf)**
 
 <p align="center">
   <object data="./Professional_Portfolio.pdf" type="application/pdf" width="100%" height="800px">
@@ -22,7 +22,7 @@ Welcome to my professional portfolio repository! Below is the full interactive v
 
 If you need a printed copy or would like to save this document in high-resolution PDF format, please click the link below:
 
-👉 **[Click Here to Download PDF Version](https://bit.ly/Portfolio-SitiAsihRahmahaya)**
+**[Click Here to Download PDF Version](https://bit.ly/Portfolio-SitiAsihRahmahaya)**
 
 ---
 
