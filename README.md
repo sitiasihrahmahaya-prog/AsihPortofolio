@@ -44,7 +44,6 @@ Welcome to my professional portfolio repository! Below is the full view of my po
 <br><br><br>
 <img src="https://github.com/user-attachments/assets/f72f1fb4-5825-4c6b-958a-d561eefc6c1b" alt="Page 19" width="100%" />
 <br><br><br>
-<img src="https://github.com/user-attachments/assets/28c3e65e-6dec-4b22-95ca-50e16d2c94d3" alt="Page 20" width="100%" />
 
 ---
 
@@ -62,5 +61,6 @@ I am highly open to career opportunities, project partnerships, and professional
 
 * **LinkedIn:** [linkedin.com/in/siti-asih-rahmahaya](https://linkedin.com/in/sitiasihrahmahaya)
 * **Email:** [sitiasihrahmahaya@gmail.com](mailto:sitiasihrahmahaya@gmail.com)
+* **Phone:** (+62)831-1638-9496
 
 *Thank you for visiting!*
