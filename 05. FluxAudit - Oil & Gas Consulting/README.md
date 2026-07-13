@@ -9,6 +9,18 @@ An end-to-end data analytics pipeline and simulation engine designed to solve **
 
 ---
 
+## 📸 Application Preview & System Integration
+
+![FluxAudit Real-Time Dashboard](NAMA_FILE_SCREENSHOT_LU.png)
+
+### 🔄 Dynamic & Integrated Architecture Lifecycle
+The *FluxAudit™ Engine* does not rely on static hardcoded values. Instead, it features a **fully integrated structural loop** designed to deliver single-source-of-truth analytics:
+1. **Relational Database Sync:** The core Streamlit runtime engine establishes a direct, live gateway connection to the embedded `SQLite3` database layer (`FluxAudit_simulation.db`).
+2. **Automated Computation:** Whenever raw data or operational logs inside the database undergo any structural modification (e.g., adding new daily logs or altering production rows), the Python aggregation pipeline instantly recalculates the quantitative parameters (`Discrepancy_bbl`, `Discrepancy_Pct`, and `Est. Revenue Risk ($)`).
+3. **Live UI Refresh:** The frontend dashboard, key metric cards, and Plotly trends update dynamically in real-time without requiring manual script redeployment, giving field engineers and stakeholders instant visibility into asset network containment integrity.
+
+---
+
 ## 🎯 Problem Statement & Business Context
 In oil and gas operations, a common critical issue is the systemic volume mismatch between **Total Wellhead Potential** and **Actual Sales Volume**. As a Junior Consultant, this project evaluates the structural losses and provides data-driven mitigation plans:
 * **Global Asset Loss:** Historical operations exhibit an average volume deviation of **1.77%**, officially breaching the standard **1.5% maximum uncertainty tolerance limit**.
