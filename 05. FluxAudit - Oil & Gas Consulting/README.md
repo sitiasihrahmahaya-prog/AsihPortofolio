@@ -53,9 +53,8 @@ pip install -r requirements.txt
 
 # 4. Execute the Streamlit engine
 streamlit run app.py
-
----
 ```
+---
 
 ## 📌 Executive Insights & Strategic Actions (Consultant Deliverables)
 * **High-Temperature Thermal Correlation:** Based on cross-asset correlation analysis, the most severe volume deviations are heavily clustered around Wellhead-Gamma, which consistently logs PVT temperatures well above the operational baseline. This strongly indicates that the current allocation matrix fails to account for thermal volume shrinkage effects.
