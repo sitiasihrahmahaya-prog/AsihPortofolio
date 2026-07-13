@@ -11,7 +11,15 @@ An end-to-end data analytics pipeline and simulation engine designed to solve **
 
 ## 📸 Application Preview & System Integration
 
-![FluxAudit Real-Time Dashboard](NAMA_FILE_SCREENSHOT_LU.png)
+### 1. Multi-Page User Interface Layouts
+
+#### Page A: 📊 Data Engine (Python & SQLite3 Runtime Backend)
+![FluxAudit Python Data Engine](dashboard_python.png)
+
+#### Page B: 📈 Executive Dashboard (Integrated Corporate BI Analytics)
+![FluxAudit Looker Studio Platform](dashboard_looker.png)
+
+---
 
 ### 🔄 Dynamic & Integrated Architecture Lifecycle
 The *FluxAudit™ Engine* does not rely on static hardcoded values. Instead, it features a **fully integrated structural loop** designed to deliver single-source-of-truth analytics:
