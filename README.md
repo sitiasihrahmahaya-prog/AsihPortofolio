@@ -58,7 +58,7 @@ If you need a printed copy or would like to save this document in high-resolutio
 
 ### Contact & Collaboration
 
-I am highly open to career opportunities, project partnerships, and professional collaborations across **Geoscience, Subsurface Tech, Data Analysis, Business Development, and Energy Operations**. Let's connect through:
+I am highly open to career opportunities, project partnerships, and professional collaborations across **Geoscience, Subsurface Tech, Data Analysis, Business Development, and Energy Operations**.
 
 
 *Thank you for visiting!*
