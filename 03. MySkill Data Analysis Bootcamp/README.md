@@ -1,11 +1,11 @@
-# MySkill Data Analytics Bootcamp Portfolio: Final Projects & Task Compilation
+# MySkill Data Analysis Bootcamp Portfolio: Final Projects & Task Compilation
 
-Selamat datang di portofolio Data Analytics! berisi rangkaian proyek analisis data *end-to-end* yang mencakup penggunaan **SQL**, **Python**, **Looker Studio**, dan **Spreadsheet/Excel**.
+Selamat datang di portofolio Data Analysis! berisi rangkaian proyek analisis data *end-to-end* yang mencakup penggunaan **SQL**, **Python**, **Looker Studio**, dan **Spreadsheet/Excel**.
 
 ---
 
 ## Table of Contents
-1. [Project 1: SQL Analytics (Tokopaedi E-Commerce)](#1-project-1-sql-final-project)
+1. [Project 1: SQL Analysis (Tokopaedi E-Commerce)](#1-project-1-sql-final-project)
 2. [Project 2: Python Data Analysis](#2-project-2-python-data-analysis)
 3. [Project 3: Data Visualization (Looker Studio Dashboard)](#3-project-3-data-visualization-looker-studio)
 4. [Project 4: Bootcamp Task Compilation](#4-project-4-bootcamp-task-compilation)
