@@ -104,7 +104,7 @@ Dashboard interaktif Looker Studio untuk pemantauan tren *campaign* bulanan sert
 
 ### File Reference
 * **Laporan Presentasi PDF:** [Lihat Data Visualization Final Project PDF](./Data%20Visualization%20Final%20Project%20-%202A%20Team.pdf)
-* **Live Dashboard Access:** **[Looker Studio Dashboard - Final Project](https://datastudio.google.com/u/0/reporting/e263a6c5-fb27-40e2-9099-0363ce081341/page/wM43F)**
+* **Live Dashboard Access:** *[Looker Studio Dashboard - Final Project](https://datastudio.google.com/u/0/reporting/0a1bb4d5-6383-433a-bbb7-76280b56402b/page/p_rdgj8ktp5d)
 
 ---
 
