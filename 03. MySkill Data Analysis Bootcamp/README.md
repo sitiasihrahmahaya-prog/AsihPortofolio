@@ -1,7 +1,4 @@
 # MySkill Data Analysis Bootcamp Portfolio: Final Projects & Task Compilation
-
-Selamat datang! Halaman ini berisi gabungan proyek analisis data *end-to-end* yang mencakup penggunaan **SQL**, **Python**, **Looker Studio**, dan **Spreadsheet/Excel**.
-
 ---
 
 ## Table of Contents
