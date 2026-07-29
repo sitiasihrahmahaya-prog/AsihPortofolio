@@ -116,10 +116,8 @@ Kumpulan tugas-tugas latihan bootcamp menggunakan Sheets/Excel, SQL, Python dan 
 * **Dokumen Portofolio Tugas (PDF):** [Lihat PDF Bootcamp Tasks Portfolio](./Bootcamp%20Tasks%20Portfolio_Siti%20Asih%20Rahmah.pdf)
 * **Alternative Drive Access:** Jika file PDF di atas tidak dapat dibuka, akses via Google Drive: [Buka Portofolio Tugas di Google Drive](https://drive.google.com/file/d/18gLCIj2vC291LWsdOhyje_P2SeFOl9ED/view?usp=sharing)
 
----
-
 ### Task & Dashboard Direct Links
-Seluruh detail latihan dan live link yang dicantumkan dalam portofolio di atas dapat diakses langsung melalui link berikut:
+Seluruh detail latihan dan live link yang dicantumkan dalam tasks portofolio di atas dapat diakses langsung melalui link berikut:
 
 * **Task 1: Basic Statistics**
   * Latihan analisis statistik dasar (Mean, Standard Deviation, Variance, Z-Score, Percentile)
