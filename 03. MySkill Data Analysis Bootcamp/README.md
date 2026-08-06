@@ -2,16 +2,16 @@
 
 This repository showcases my end-to-end data analytics projects completed during the **MySkill Fullstack Data Analysis Intensive Bootcamp**, covering SQL, Python, and Business Intelligence case studies using real-world e-commerce datasets. Throughout the bootcamp, I completed multiple business analytics projects involving data cleaning, SQL querying, exploratory data analysis (EDA), dashboard development, and business insight generation.
 
-🏆 **Achievement**
+**Achievement**
 - **Best Final Project Award** – MySkill Data Analysis Bootcamp Batch 28
 - **Final Project Score:** **94/100 (Distinction)**
 - Successfully completed the **MySkill Fullstack Data Analysis Intensive Bootcamp**
 
 ## Certificates
 
-- 📄 [Certificate of Best Final Project](./Certificate%20Best%20Final%20Project.pdf)
-- 📄 [Certificate of Final Project Report (Distinction – 94/100)](./Certificate%20Final%20Project%20Report.pdf)
-- 📄 [Certificate of Completion – MySkill Data Analysis Bootcamp](./Certificate%20of%20Completion%20MySkill.pdf)
+- [Certificate of Best Final Project](./Certificate%20Best%20Final%20Project.pdf)
+- [Certificate of Final Project Report (Distinction – 94/100)](./Certificate%20Final%20Project%20Report.pdf)
+- [Certificate of Completion – MySkill Data Analysis Bootcamp](./Certificate%20of%20Completion%20MySkill.pdf)
 
 ---
 
