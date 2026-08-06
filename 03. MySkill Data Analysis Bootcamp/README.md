@@ -1,6 +1,6 @@
 # MySkill Data Analysis Bootcamp Portfolio: Final Projects & Task Compilation
 
-This repository showcases my end-to-end data analytics projects completed during the **MySkill Fullstack Data Analysis Intensive Bootcamp**, covering SQL, Python, and Business Intelligence case studies using real-world e-commerce datasets. Throughout the bootcamp, I completed multiple business analytics projects involving data cleaning, SQL querying, exploratory data analysis (EDA), dashboard development, and business insight generation.
+This page showcases my end-to-end data analytics projects completed during the **MySkill Fullstack Data Analysis Intensive Bootcamp**, covering SQL, Python, and Business Intelligence case studies using real-world e-commerce datasets. Throughout the bootcamp, I completed multiple business analytics projects involving data cleaning, SQL querying, exploratory data analysis (EDA), dashboard development, and business insight generation.
 
 **Achievement**
 - **Best Final Project Award** – MySkill Data Analysis Bootcamp Batch 28
