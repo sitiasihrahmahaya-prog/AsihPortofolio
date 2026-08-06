@@ -9,10 +9,10 @@ This page showcases my end-to-end data analytics projects completed during the *
 
 ## Certificates
 
-- [Certificate of Best Final Project](./Certificate%20Best%20Final%20Project.pdf)
-- [Certificate of Final Project Report (Distinction – 94/100)](./Certificate%20Final%20Project%20Report.pdf)
-- [Certificate of Completion – MySkill Data Analysis Bootcamp](./Certificate%20of%20Completion%20MySkill.pdf)
-
+- [Certificate of Best Final Project](./certificate%20best%20final%20project.pdf)
+- [Certificate of Final Project Report (Distinction – 94/100)](./certificate%20final%20project%20report.pdf)
+- [Certificate of Completion – MySkill Data Analysis Bootcamp](./certificate%20of%20Completion%20MySkill.pdf)
+  
 ---
 
 ## 1. Project 1: SQL Final Project
