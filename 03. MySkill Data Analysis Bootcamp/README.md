@@ -1,11 +1,17 @@
 # MySkill Data Analysis Bootcamp Portfolio: Final Projects & Task Compilation
----
 
-## Table of Contents
-1. [Project 1: SQL Analysis (Tokopaedi E-Commerce)](#1-project-1-sql-final-project)
-2. [Project 2: Python Data Analysis](#2-project-2-python-data-analysis)
-3. [Project 3: Data Visualization (Looker Studio Dashboard)](#3-project-3-data-visualization-looker-studio)
-4. [Project 4: Bootcamp Task Compilation](#4-project-4-bootcamp-task-compilation)
+This repository showcases my end-to-end data analytics projects completed during the **MySkill Fullstack Data Analysis Intensive Bootcamp**, covering SQL, Python, and Business Intelligence case studies using real-world e-commerce datasets. Throughout the bootcamp, I completed multiple business analytics projects involving data cleaning, SQL querying, exploratory data analysis (EDA), dashboard development, and business insight generation.
+
+🏆 **Achievement**
+- **Best Final Project Award** – MySkill Data Analysis Bootcamp Batch 28
+- **Final Project Score:** **94/100 (Distinction)**
+- Successfully completed the **MySkill Fullstack Data Analysis Intensive Bootcamp**
+
+## Certificates
+
+- 📄 [Certificate of Best Final Project](./Certificate%20Best%20Final%20Project.pdf)
+- 📄 [Certificate of Final Project Report (Distinction – 94/100)](./Certificate%20Final%20Project%20Report.pdf)
+- 📄 [Certificate of Completion – MySkill Data Analysis Bootcamp](./Certificate%20of%20Completion%20MySkill.pdf)
 
 ---
 
