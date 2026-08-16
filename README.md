@@ -12,7 +12,7 @@ Welcome to my professional portfolio repository! Below is the full view of my po
 <br><br><br>
 <img src="https://github.com/user-attachments/assets/3da4dfa0-42ef-456a-b2bd-ef7ebb866959" alt="Page 3" width="100%" />
 <br><br><br>
-<img src="https://github.com/user-attachments/assets/2bd2a01b-de7a-482e-b569-708de3e7e5b3" alt="Page 4" width="100%" />
+<img src="https://github.com/user-attachments/assets/ed6365b1-f29d-41a5-8e9b-6355990d7c7a" alt="Page 4" width="100%" />
 <br><br><br>
 <img src="https://github.com/user-attachments/assets/78572747-32cf-4747-8a5f-a305dee6e073" alt="Page 5" width="100%" />
 <br><br><br>
