@@ -1,5 +1,4 @@
-# Subsurface Reservoir Characterization using Trigonometric CPEI & PEI-L Attributes
-> **Central Sumatra Basin ("YUNORA" Field) - Menggala Formation**
+# Reservoir Characterization of Menggala Formation Sandstone Reservoir using a Trigonometric Approach to Pseudo Elastic Impedance Lithology (PEI-L) and Curved Pseudo Elastic Impedance (CPEI) Attributes in the “YUNORA” Field, Central Sumatra Basin
 
 [![Degree](https://img.shields.io/badge/Degree-Bachelor%20Thesis%20(S.T.)-blue.svg)](https://itb.ac.id)
 [![Institution](https://img.shields.io/badge/Institution-Institut%20Teknologi%20Bandung-blue)](https://itb.ac.id)
