@@ -10,7 +10,7 @@
 
 ## Overview
 
-Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasil penelitian **Tugas Akhir Sarjana Program Studi Teknik Geofisika ITB** oleh **Siti Asih Rahmahaya** (NIM: 12321086), di bawah bimbingan **Ignatius Sonny Winardhi, Ph.D.** dan **Ekkal Dinanto, S.T., M.T.**
+Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasil penelitian **Tugas Akhir Sarjana Program Studi Teknik Geofisika ITB** oleh **Siti Asih Rahmahaya**, di bawah bimbingan **Ignatius Sonny Winardhi, Ph.D.** dan **Ekkal Dinanto, S.T., M.T.**
 
 ### Key Challenges & Objectives
 - **Problem:** Target reservoir batupasir Formasi Menggala di Lapangan "YUNORA" memiliki ketebalan di bawah batas resolusi vertikal seismik (*tuning thickness*), sehingga sulit dipisahkan menggunakan inversi deterministik konvensional.
