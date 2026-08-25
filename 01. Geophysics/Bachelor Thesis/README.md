@@ -77,8 +77,9 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
 
 - **Parameter Sensitivity:** Kombinasi rasio $V_p/V_s$ dan *Acoustic Impedance* (AI) terbukti sangat sensitif memisahkan litologi batupasir bersih (*clean sandstone*) berporositas tinggi dari serpih (*shale*), khususnya pada interval Lower Menggala hingga Upper Pematang.
   
-![RPT CPEI Cutoff](docs/rpt_CPEI_crossplot.png)
-![RPT PEI-L](docs/rpt_peil_crossplot.png)
+<br>
+  <img src="docs/rpt_CPEI_crossplot.png" width="450" alt="RPT CPEI Cutoff" />
+  <img src="docs/rpt_peil_crossplot.png" width="450" alt="RPT PEI-L" />
 
 - **EEI Inversion Performance:** Volume $V_p/V_s$ dari inversi EEI menghasilkan korelasi yang jauh lebih tinggi terhadap data *well log* dibandingkan hasil inversi AI/SI konvensional.
   
