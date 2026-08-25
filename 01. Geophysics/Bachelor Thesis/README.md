@@ -61,6 +61,7 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
        +-------------------+--------------------+
 
 ---
+---
 
 ### Key Technical Steps:
 1. **Seismic Pre-Conditioning:** Angle Muting ($0^\circ-40^\circ$), Trim Statics, Super Gather ($3 \times 3$), Angle Gather, dan Bandwidth Matching.
