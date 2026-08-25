@@ -6,7 +6,7 @@
 [![Field](https://img.shields.io/badge/Field-Geophysics-orange)](#)
 [![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20Petrel%20%7C%20Hampson--Russell%20(HRS)%20%7C%20Excel-green)](#)
 
-**Official Publication:** [ITB Digital Library Repository](https://digilib.itb.ac.id/gdl/view_data/karakterisasi-reservoir-batupasir-formasi-menggala-menggunakan-pendekatan-trigonometri-terhadap-atribut-pseudo-elastic-impedance-lithology-pei-l-dan-curved-pseudo-elastic-impedance-cpei-pada-lapangan/?rows=605&per_page=44)
+***Official Publication:** [ITB Digital Library Repository](https://digilib.itb.ac.id/gdl/view_data/karakterisasi-reservoir-batupasir-formasi-menggala-menggunakan-pendekatan-trigonometri-terhadap-atribut-pseudo-elastic-impedance-lithology-pei-l-dan-curved-pseudo-elastic-impedance-cpei-pada-lapangan/?rows=605&per_page=44)
 ---
 
 ## Overview
