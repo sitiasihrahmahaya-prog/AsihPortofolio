@@ -63,10 +63,10 @@ This repository contains a summary of the methodology, data processing workflow,
   - Potential accumulations in the **Southern** area are linked by **NW-SE** trending faults acting as migration pathways from the source rock (auxinic shale of the Upper Pematang Formation) to the Menggala Formation reservoir.
 
 <p align="center">
-  <img src="docs/horizon_slicing_maps.png" width="70%" />
+  <img src="docs/horizon_slicing_maps.png" width="65%" />
 </p>
 <p align="center" style="margin-top: -10px;">
-  <img src="docs/structural_fault_interpretation.png" width="75%" />
+  <img src="docs/structural_fault_interpretation.png" width="70%" />
 </p>
 
 ---
