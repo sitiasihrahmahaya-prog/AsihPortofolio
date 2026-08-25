@@ -76,16 +76,19 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
 ## Key Findings & Results
 
 - **Parameter Sensitivity:** Kombinasi rasio $V_p/V_s$ dan *Acoustic Impedance* (AI) terbukti sangat sensitif memisahkan litologi batupasir bersih (*clean sandstone*) berporositas tinggi dari serpih (*shale*), khususnya pada interval Lower Menggala hingga Upper Pematang.
-![RPT CPEI Cutoff](docs/rpt_cpei_crossplot.png)
+  
+![RPT CPEI Cutoff](docs/rpt_CPEI_crossplot.png)
 ![RPT PEI-L](docs/rpt_peil_crossplot.png)
 
 - **EEI Inversion Performance:** Volume $V_p/V_s$ dari inversi EEI menghasilkan korelasi yang jauh lebih tinggi terhadap data *well log* dibandingkan hasil inversi AI/SI konvensional.
+  
 ![Inversion Correlation Comparison](docs/inversion_crossplot_comparison.png)
 ![Seismic Inversion Sections](docs/seismic_inversion_sections.png)
 
 - **Prospective Zones:** 
   - Prospek utama hidrokarbon teridentifikasi di area **Utara** (tinggian struktural).
   - Potensi akumulasi di area **Selatan** dihubungkan oleh sesar berarah **NW-SE** yang bertindak sebagai jalur migrasi dari *source rock* (serpih euksinik Formasi Upper Pematang) menuju reservoir Formasi Menggala.
+  
 ![Horizon Slicing Maps](docs/horizon_slicing_maps.png)
 ![Structural Fault Interpretation](docs/structural_fault_interpretation.png)
 
