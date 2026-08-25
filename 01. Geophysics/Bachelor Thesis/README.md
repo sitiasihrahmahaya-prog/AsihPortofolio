@@ -30,7 +30,7 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
 ## Workflow & Methodology
 
 <p align="left">
-  <img src="docs/flowchart_1.png" width="48%" /> <img src="docs/flowchart_2.png" width="50%" />
+  <img src="docs/flowchart_1.png" width="50%" /> <img src="docs/flowchart_2.png" width="45%" />
 </p>
 
 ---
