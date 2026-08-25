@@ -6,6 +6,7 @@
 [![Field](https://img.shields.io/badge/Field-Geophysics-orange)](#)
 [![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20Petrel%20%7C%20Hampson--Russell%20(HRS)%20%7C%20Excel-green)](#)
 
+**Official Publication:** [ITB Digital Library Repository](https://digilib.itb.ac.id/gdl/view_data/karakterisasi-reservoir-batupasir-formasi-menggala-menggunakan-pendekatan-trigonometri-terhadap-atribut-pseudo-elastic-impedance-lithology-pei-l-dan-curved-pseudo-elastic-impedance-cpei-pada-lapangan/?rows=605&per_page=44)
 ---
 
 ## Overview
@@ -22,7 +23,7 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
 
 ## Tech Stack & Software
 - **Software:** Petrel & Hampson-Russell (HRS) Suite
-- **Programming & Analysis:** Python (AVO Ursenbach-Stewart, Numerical Inversion, Data Plotting), Microsoft Excel
+- **Programming & Analysis:** Python (AVO Ursenbach-Stewart, EEI Chi Angle Optimization, Numerical Inversion, Data Plotting), Microsoft Excel
 - **Dataset:** 3D PSTM Gather Seismik, 3 Data Sumur (SIP-1, SIP-2, SIP-3) & Data Kecepatan
 
 ---
