@@ -29,38 +29,9 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
 
 ## Workflow & Methodology
 
-```text
-+-----------------------+      +--------------------------+
-|   Well Data Analysis  |      |   Seismic Gather Pre-Cond|
-| (Sensitivity & Log)   |      | (Mute, Trim Static, etc.)|
-+-----------+-----------+      +------------+-------------+
-            |                               |
-            v                               v
-+-----------------------+      +--------------------------+
-| Sensitive Parameters  |      | AVO Ursenbach-Stewart    |
-|   (AI vs Vp/Vs Log)   |      |    (Extraction Rp & Rs)  |
-+-----------+-----------+      +------------+-------------+
-            \                              /
-             \                            /
-              v                          v
-       +----------------------------------------+
-       | EEI & LPSS Sparse Spike Seismic        |
-       | Inversion (AI, SI, Vp/Vs)              |
-       +-------------------+--------------------+
-                           |
-                           v
-       +----------------------------------------+
-       | Trigonometric CPEI & PEI-L Attributes  |
-       | Formulation & Cutoff Analysis          |
-       +-------------------+--------------------+
-                           |
-                           v
-       +----------------------------------------+
-       | 3D Porosity & Hydrocarbon Mapping      |
-       | (Slicing & Structural Interpretation)  |
-       +-------------------+--------------------+
-
-```
+<p align="left">
+  <img src="docs/flowchart_1.png" width="48%" /> <img src="docs/flowchart_2.png" width="50%" />
+</p>
 
 ---
 
@@ -92,7 +63,7 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
   - Potensi akumulasi di area **Selatan** dihubungkan oleh sesar berarah **NW-SE** yang bertindak sebagai jalur migrasi dari *source rock* (serpih euksinik Formasi Upper Pematang) menuju reservoir Formasi Menggala.
 
 <br>
-  <img src="docs/horizon_slicing_maps.png" width="800" alt="Horizon Slicing Maps" />
+  <img src="docs/horizon_slicing_maps.png" width="700" alt="Horizon Slicing Maps" />
   <br>
   <img src="docs/structural_fault_interpretation.png" width="700" alt="Structural Fault Interpretation" />
 
