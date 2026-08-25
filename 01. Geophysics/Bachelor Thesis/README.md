@@ -64,7 +64,7 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
 
 ---
 
-### Key Technical Steps:
+## Key Technical Steps:
 1. **Seismic Pre-Conditioning:** Angle Muting ($0^\circ-40^\circ$), Trim Statics, Super Gather ($3 \times 3$), Angle Gather, dan Bandwidth Matching.
 2. **AVO & Inversion:** Ekstraksi volume $R_p$ dan $R_s$ menggunakan aproksimasi Ursenbach-Stewart (2008), dilanjutkan inversi LPSS untuk P-Impedance, S-Impedance, dan EEI $V_p/V_s$.
 3. **Trigonometric Attribute Formulation:**
