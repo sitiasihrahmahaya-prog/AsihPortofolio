@@ -63,7 +63,7 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
   - Potensi akumulasi di area **Selatan** dihubungkan oleh sesar berarah **NW-SE** yang bertindak sebagai jalur migrasi dari *source rock* (serpih euksinik Formasi Upper Pematang) menuju reservoir Formasi Menggala.
 
 <p align="center">
-  <img src="docs/horizon_slicing_maps.png" width="85%" />
+  <img src="docs/horizon_slicing_maps.png" width="70%" />
 </p>
 <p align="center" style="margin-top: -10px;">
   <img src="docs/structural_fault_interpretation.png" width="75%" />
