@@ -62,10 +62,12 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
   - Prospek utama hidrokarbon teridentifikasi di area **Utara** (tinggian struktural).
   - Potensi akumulasi di area **Selatan** dihubungkan oleh sesar berarah **NW-SE** yang bertindak sebagai jalur migrasi dari *source rock* (serpih euksinik Formasi Upper Pematang) menuju reservoir Formasi Menggala.
 
-<br>
-  <img src="docs/horizon_slicing_maps.png" width="700" alt="Horizon Slicing Maps" />
-  <br>
-  <img src="docs/structural_fault_interpretation.png" width="700" alt="Structural Fault Interpretation" />
+<p align="center">
+  <img src="docs/horizon_slicing_maps.png" width="85%" />
+</p>
+<p align="center" style="margin-top: -10px;">
+  <img src="docs/structural_fault_interpretation.png" width="75%" />
+</p>
 
 ---
 
