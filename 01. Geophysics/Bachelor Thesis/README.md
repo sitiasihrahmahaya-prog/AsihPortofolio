@@ -10,20 +10,20 @@ Official Publication: [ITB Digital Library Repository](https://digilib.itb.ac.id
 
 ## Overview
 
-Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasil penelitian **Tugas Akhir Sarjana Program Studi Teknik Geofisika ITB** oleh **Siti Asih Rahmahaya**, di bawah bimbingan **Ignatius Sonny Winardhi, Ph.D.** dan **Ekkal Dinanto, S.T., M.T.**
+This repository contains a summary of the methodology, data processing workflow, and research findings of the **Undergraduate Bachelor's Thesis in Geophysics Engineering at Institut Teknologi Bandung (ITB)** by **Siti Asih Rahmahaya**, supervised by **Ignatius Sonny Winardhi, Ph.D.** and **Ekkal Dinanto, S.T., M.T.**
 
 ### Key Challenges & Objectives
-- **Problem:** Target reservoir batupasir Formasi Menggala di Lapangan "YUNORA" memiliki ketebalan di bawah batas resolusi vertikal seismik (*tuning thickness*), sehingga sulit dipisahkan menggunakan inversi deterministik konvensional.
-- **Solution:** Mengaplikasikan pemrosesan data AVO lanjutan (aproksimasi Ursenbach-Stewart) dan **Inversi Extended Elastic Impedance (EEI)** berbasis **Linear Programming Sparse Spike (LPSS)**, yang dikombinasikan dengan pendekatan fungsi **trigonometri** untuk membentuk atribut:
-  1. **PEI-L (Pseudo Elastic Impedance Lithology):** Memetakan persebaran porositas secara lateral.
-  2. **CPEI (Curved Pseudo Elastic Impedance):** Mengindikasikan keberadaan dan pemisahan saturasi hidrokarbon.
+- **Problem:** The target sandstone reservoir of the Menggala Formation in the "YUNORA" Field has a thickness below the seismic vertical resolution limit (*tuning thickness*), making it difficult to delineate using conventional deterministic inversion.
+- **Solution:** Applied advanced AVO data processing (Ursenbach-Stewart approximation) and **Extended Elastic Impedance (EEI) Inversion** based on **Linear Programming Sparse Spike (LPSS)**, combined with a **trigonometric** approach to formulate two key attributes:
+  1. **PEI-L (Pseudo Elastic Impedance Lithology):** Maps lateral porosity distribution.
+  2. **CPEI (Curved Pseudo Elastic Impedance):** Indicates the presence and segregation of hydrocarbon saturation.
 
 ---
 
 ## Tech Stack & Software
 - **Software:** Petrel & Hampson-Russell (HRS) Suite
 - **Programming & Analysis:** Python (AVO Ursenbach-Stewart, EEI Chi Angle Optimization, Numerical Inversion, Data Plotting), Microsoft Excel
-- **Dataset:** 3D PSTM Gather Seismik, 3 Data Sumur (SIP-1, SIP-2, SIP-3) & Data Kecepatan
+- **Dataset:** 3D PSTM Gather Seismik, 3 Well Data (SIP-1, SIP-2, SIP-3) & Velocity Data
 
 ---
 
@@ -46,21 +46,21 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
 
 ## Key Findings & Results
 
-- **Parameter Sensitivity:** Kombinasi rasio $V_p/V_s$ dan *Acoustic Impedance* (AI) terbukti sangat sensitif memisahkan litologi batupasir bersih (*clean sandstone*) berporositas tinggi dari serpih (*shale*), khususnya pada interval Lower Menggala hingga Upper Pematang.
+- **Parameter Sensitivity:** The combination of the $V_p/V_s$ ratio and *Acoustic Impedance* (AI) proved to be highly sensitive in discriminating high-porosity clean sandstone lithology from shale, particularly within the interval from Lower Menggala to Upper Pematang.
   
 <p align="left">
   <img src="docs/rpt_CPEI_crossplot.png" width="48%" /> <img src="docs/rpt_peil_crossplot.png" width="50%" />
 </p>
 
-- **EEI Inversion Performance:** Volume $V_p/V_s$ dari inversi EEI menghasilkan korelasi yang jauh lebih tinggi terhadap data *well log* dibandingkan hasil inversi AI/SI konvensional.
+- **EEI Inversion Performance:** The $V_p/V_s$ volume derived from EEI inversion achieved a significantly higher correlation coefficient with well log data compared to conventional AI/SI inversion results.
 
 <p align="left">
   <img src="docs/seismic_inversion_sections.png" width="48%" /> <img src="docs/inversion_crossplot_comparison.png" width="50%" />
 </p>
 
 - **Prospective Zones:** 
-  - Prospek utama hidrokarbon teridentifikasi di area **Utara** (tinggian struktural).
-  - Potensi akumulasi di area **Selatan** dihubungkan oleh sesar berarah **NW-SE** yang bertindak sebagai jalur migrasi dari *source rock* (serpih euksinik Formasi Upper Pematang) menuju reservoir Formasi Menggala.
+  - Main hydrocarbon prospects were identified in the **Northern** area (structural high).
+  - Potential accumulations in the **Southern** area are linked by **NW-SE** trending faults acting as migration pathways from the source rock (auxinic shale of the Upper Pematang Formation) to the Menggala Formation reservoir.
 
 <p align="center">
   <img src="docs/horizon_slicing_maps.png" width="70%" />
@@ -73,7 +73,7 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
 
 ## Citation Guidelines
 
-Jika Anda merujuk atau menggunakan hasil penelitian dari Tugas Akhir ini, harap sertakan sitasi berikut:
+If you refer to or use the research results from this thesis, please cite as follows:
 
 - **Bahasa Indonesia:**
   > Rahmahaya, S. A. (2025): *Karakterisasi Reservoir Batupasir Formasi Menggala Menggunakan Pendekatan Trigonometri terhadap Atribut Pseudo Elastic Impedance Lithology (PEI-L) dan Curved Pseudo Elastic Impedance (CPEI) pada Lapangan "YUNORA", Cekungan Sumatra Tengah*, Tugas Akhir Program Sarjana, Institut Teknologi Bandung.
@@ -82,4 +82,4 @@ Jika Anda merujuk atau menggunakan hasil penelitian dari Tugas Akhir ini, harap 
   > Rahmahaya, S. A. (2025): *Reservoir Characterization of Menggala Formation Sandstone Reservoir using a Trigonometric Approach to Pseudo Elastic Impedance Lithology (PEI-L) and Curved Pseudo Elastic Impedance (CPEI) Attributes in the "YUNORA" Field, Central Sumatra Basin*, Bachelor's Thesis, Institut Teknologi Bandung.
 
 ---
-© 2025 Siti Asih Rahmahaya — Program Studi Teknik Geofisika, Institut Teknologi Bandung.
+© 2025 Siti Asih Rahmahaya — Geophysical Engineering Study Program, Institut Teknologi Bandung.
