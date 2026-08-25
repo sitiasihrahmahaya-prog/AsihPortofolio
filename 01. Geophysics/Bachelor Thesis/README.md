@@ -82,14 +82,15 @@ Repository ini berisi ringkasan metodologi, alur kerja pemrosesan data, dan hasi
 </p>
 
 - **EEI Inversion Performance:** Volume $V_p/V_s$ dari inversi EEI menghasilkan korelasi yang jauh lebih tinggi terhadap data *well log* dibandingkan hasil inversi AI/SI konvensional.
-  
-![Inversion Correlation Comparison](docs/inversion_crossplot_comparison.png)
-![Seismic Inversion Sections](docs/seismic_inversion_sections.png)
+
+<p align="left">
+  <img src="docs/seismic_inversion_sections.png" width="48%" /> <img src="docs/inversion_crossplot_comparison.png" width="50%" />
+</p>
 
 - **Prospective Zones:** 
   - Prospek utama hidrokarbon teridentifikasi di area **Utara** (tinggian struktural).
   - Potensi akumulasi di area **Selatan** dihubungkan oleh sesar berarah **NW-SE** yang bertindak sebagai jalur migrasi dari *source rock* (serpih euksinik Formasi Upper Pematang) menuju reservoir Formasi Menggala.
-  
+
 ![Horizon Slicing Maps](docs/horizon_slicing_maps.png)
 ![Structural Fault Interpretation](docs/structural_fault_interpretation.png)
 
