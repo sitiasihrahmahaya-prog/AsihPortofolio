@@ -1,5 +1,5 @@
 # Subsurface Reservoir Characterization using Trigonometric CPEI & PEI-L Attributes
-> **Central Sumatra Basin ("YUNORA" Field) — Menggala Formation**
+> **Central Sumatra Basin ("YUNORA" Field) - Menggala Formation**
 
 [![Degree](https://img.shields.io/badge/Degree-Bachelor%20Thesis%20(S.T.)-blue.svg)](https://itb.ac.id)
 [![Institution](https://img.shields.io/badge/Institution-Institut%20Teknologi%20Bandung-blue)](https://itb.ac.id)
