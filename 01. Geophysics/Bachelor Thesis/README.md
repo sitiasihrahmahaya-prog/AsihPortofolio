@@ -3,7 +3,7 @@
 
 [![Degree](https://img.shields.io/badge/Degree-Bachelor%20Thesis%20(S.T.)-blue.svg)](https://itb.ac.id)
 [![Institution](https://img.shields.io/badge/Institution-Institut%20Teknologi%20Bandung-blue)](https://itb.ac.id)
-[![Field](https://img.shields.io/badge/Field-Geophysics%20%2F%20Rock%20Physics-orange)](#)
+[![Field](https://img.shields.io/badge/Field-Geophysics%20%2F%20-orange)](#)
 [![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20Petrel%20%7C%20Hampson--Russell%20(HRS)%20%7C%20Excel-green)](#)
 
 ---
