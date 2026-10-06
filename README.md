@@ -25,7 +25,7 @@ Welcome to my professional portfolio repository! Below is the full view of my po
 
 If you need a printed copy or would like to save this document in high-resolution PDF format, please click the link below:
 
-**[Click Here to Download PDF Version](https://bit.ly/Portfolio-SitiAsihRahmahaya)**
+**[Click Here to Download PDF Version](https://drive.google.com/file/d/1Y1xz9pKHG6scKJ4Xe9kJNfQ59YDDr6de/view?usp=sharing)**
 
 ---
 
